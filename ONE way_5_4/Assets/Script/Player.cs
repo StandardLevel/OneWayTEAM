@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    //테스트
     GameObject doorghost;
     public Animation anim;
     public Animation Door;
